@@ -15,8 +15,8 @@ Individuare i principali fattori finanziari che influenzano la performance delle
 - Interpretazione delle componenti
 
 ## Risultati
-- La prima componente rappresenta ...
-- La seconda componente rappresenta ...
+- La prima componente rappresenta aziende correlate con ebitda/vendite, ROA e ROS
+- La seconda componente rappresenta correlazioni con RI, indice di liquiditá e indice di copertura immobilizzazioni
 - Identificazione di start-up con maggiore potenziale: sono quelle individuate di rosso, facenti parte del primo quadrante in alto a destra. Perció le start up in cui proponiamo di investire
   sono: GEODATALAB S.R.L.S. - SMART HUB S.R.L. - SET IT SRL - BIOMEDICAL SAFETY SRL
 - Le peggiori aziende che sconsigliamo di investire sono situate nel quadrante in basso a sinistra, come ad esempio le start up KOPEN S.R.L. - SMART HUB S.R.L. 
